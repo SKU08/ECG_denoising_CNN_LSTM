@@ -1,0 +1,15 @@
+numpy==1.21.0
+torch==1.9.0
+torchvision==0.10.0
+matplotlib==3.4.2
+seaborn==0.11.1
+scikit-learn==0.24.2
+wfdb==3.4.1
+pywt==1.1.1
+torchinfo==1.5.3
+tqdm==4.61.2
+tensorboard==2.5.0
+scipy==1.7.0
+
+# EMD (currently commented out, but might be needed in the future)
+# PyEMD==0.2.10
